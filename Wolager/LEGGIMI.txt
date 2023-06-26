@@ -1,0 +1,4 @@
+Salve, se stai leggendo questo probabilmente hai scaricato Wolager da GitHub.com e ne sono felice, devi sapere che 
+come probabilmente avrai già letto la versione 0.1beta non è una versione funzionante, essendo ancora in fase di 
+costruzione il programma.
+
